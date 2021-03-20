@@ -7,3 +7,12 @@
 *.d
 *.so
 *.a
+
+# For Qt
+*.cflags
+*.config
+*.creator
+*.creator.user
+*.cxxflags
+*.files
+*.includes
