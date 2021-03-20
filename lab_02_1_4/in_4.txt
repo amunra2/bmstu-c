@@ -1,0 +1,4 @@
+Input ammount of elements :
+7
+Input array :
+5 5 5 5 5 5 5

@@ -1,0 +1,14 @@
+Input : 1
+Output : Entry is 1 and level is 1
+
+
+Input : 4
+Output : Entry is 1 and level is 1
+
+
+Input : 36
+Output : Entry is 1 and level is 9
+
+
+Input : 37
+Output : Entry is 2 and level is 1

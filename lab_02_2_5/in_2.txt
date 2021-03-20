@@ -1,0 +1,2 @@
+Input ammount of elements :
+iu

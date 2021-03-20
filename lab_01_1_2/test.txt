@@ -1,0 +1,5 @@
+Input: 15 30 30
+Output: Square is 97.42439
+
+Input: 30 15 60
+Output: Square is 292.26276

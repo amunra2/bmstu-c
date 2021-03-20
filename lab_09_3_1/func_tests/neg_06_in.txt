@@ -1,0 +1,9 @@
+4
+args
+10
+not
+20
+equal
+30
+three
+500

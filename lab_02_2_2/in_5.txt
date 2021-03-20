@@ -1,0 +1,4 @@
+Input ammount of elements :
+5
+Input array :
+123 321 23 45 67999

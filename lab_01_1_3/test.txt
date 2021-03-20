@@ -1,0 +1,8 @@
+Input: 7 35 9 15
+Output: V is 16.00000
+	t is 23.75000
+
+
+Input: 0 0 15 9
+Output: V is 15.00000
+	t is 9.00000

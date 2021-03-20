@@ -1,0 +1,25 @@
+Input : 0.3 0.0001
+Output : s(x) = 0.455130
+	 f(x) = 0.455166
+	 Абсолютная ошибка : 0.000036
+	 Относительная ошибка : 0.000079
+
+
+Input : 0.3 1
+Output : Unright input of eps
+	 main.exe завершился с кодом 3
+
+
+Input : 1 0.0001
+Output : Unright input of X
+	 main.exe завершился с кодом 2
+
+
+Input : 0.3 -5
+Output : Unright input of eps
+	 main.exe завершился с кодом 3
+
+
+Input : iu iu
+Output : Input error
+	 main.exe завершился с кодом 1

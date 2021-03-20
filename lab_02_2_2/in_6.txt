@@ -1,0 +1,4 @@
+Input ammount of elements :
+7
+Input array :
+-3 -45 -5555 223332 0 73 -9999

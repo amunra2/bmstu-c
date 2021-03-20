@@ -1,0 +1,14 @@
+hello
+15
+world
+10
+my
+15
+name
+7
+is
+5
+amunra
+10
+how
+9

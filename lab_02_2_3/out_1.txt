@@ -1,0 +1,2 @@
+New array is :
+2 3 5

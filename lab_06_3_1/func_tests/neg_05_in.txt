@@ -1,0 +1,11 @@
+5
+price
+100
+in
+50
+argument
+90
+is
+150
+negative
+1000
